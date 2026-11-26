@@ -1,0 +1,13 @@
+# Keep source models, private data and credentials out of the public portfolio
+*.pbix
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+.env
+.env.*
+*.bak
+*.zip
+raw_data/
+private/
