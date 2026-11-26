@@ -16,6 +16,10 @@ The retail case study explores the sources and timing of website visits, device 
 
 These findings are drawn from the project presentation. The underlying dataset and formula definitions have not been independently audited for this public summary.
 
+## Selected visual summary
+
+![Reported mobile share of website traffic](images/device_mix.svg)
+
 ## Recommendations
 
 Test campaign and promotional timing against conversion windows rather than traffic volume alone. Examine paid-channel efficiency, improve the mobile shopping journey and evaluate retention activity for returning visitors.
