@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="440" viewBox="0 0 1050 440" role="img" aria-label="BrightCart reported mobile share of website visits">
+<rect width="1050" height="440" fill="#f9fafb"/>
+<rect x="35" y="30" width="980" height="380" rx="16" fill="#ffffff" stroke="#d8dee7"/>
+<text x="90" y="110" font-family="Arial,sans-serif" font-size="29" font-weight="bold" fill="#162c42">Device mix from the BrightCart case study</text>
+<text x="90" y="147" font-family="Arial,sans-serif" font-size="19" fill="#53697d">Mobile represented 57.69% of reported website traffic</text>
+<rect x="90" y="206" width="865" height="68" fill="#dce6ee" rx="10"/>
+<path d="M100 206 H589 V274 H100 Q90 274 90 264 V216 Q90 206 100 206" fill="#24749c"/>
+<text x="335" y="249" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="bold" fill="#ffffff">57.69% mobile</text>
+<text x="752" y="249" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#324a60">42.31% other</text>
+<text x="90" y="346" font-family="Arial,sans-serif" font-size="18" fill="#52677d">Traffic share does not establish conversion performance by device</text>
+<text x="90" y="382" font-family="Arial,sans-serif" font-size="15" fill="#7890a6">Source: original BrightCart case-study presentation, not a live analytics extract</text>
+</svg>
